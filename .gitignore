@@ -1,0 +1,3 @@
+### Ce fichier permet de preciser quel dossier ou fichier en sera versionné sur github
+### on exclu ici le dossier contenant les images qui n'as pas besoins d'etre versionné
+/imgs/
