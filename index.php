@@ -28,7 +28,7 @@
             <a class="nav-link active" aria-current="page" href="news.php">News</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" href="#">A propos</a>
+            <a class="nav-link active" href="propos.php">A propos</a>
           </li>
           <li>
           <a class="nav-link active" data-bs-toggle="offcanvas" href="#offcanvasExample" role="button" aria-controls="offcanvasExample">information </a>
